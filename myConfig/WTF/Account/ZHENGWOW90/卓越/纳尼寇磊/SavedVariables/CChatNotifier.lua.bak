@@ -1,0 +1,19 @@
+
+CChatNotifier_settings = {
+	["sendercolor"] = "|cffff66ff",
+	["outputFormat"] = "<<ccaaaa>>[{T}] 找到 <00ff00>{K}<>! [{S}]<ff66ff>[{P}]<>: <ffffaa>{MS}<00ff00>{MF}<ffffaa>{ME}",
+	["mecolor"] = "|cffffffaa",
+	["antiSpamWindow"] = 45,
+	["isActive"] = true,
+	["mfcolor"] = "|cff00ff00",
+	["classColor"] = true,
+	["mscolor"] = "|cffffffaa",
+	["chatFrame"] = 1,
+	["version"] = "1.0",
+	["soundId"] = "sound/interface/itellmessage.ogg",
+	["snapToMinimap"] = true,
+	["showMinimapButton"] = true,
+	["firstStart"] = false,
+}
+CChatNotifier_data = {
+}

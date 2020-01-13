@@ -1,0 +1,371 @@
+
+MasqueDB = {
+	["profileKeys"] = {
+		["烟亦舞 - 奥罗"] = "Default",
+		["纳尼寇磊 - 卓越"] = "Default",
+		["坏脾气啊龙 - 卓越"] = "Default",
+		["Poetic - 奥罗"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Groups"] = {
+				["WeakAuras_sRemCjFxbvV"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_pkLUmwWSrcb"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_eADHjPdNkzg"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_F6sJU0OZahu"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_VGgsYK1zWxn"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_RguwBXZmuII"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_l3lTKKVm4aw"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_d9xTt7Wtk4r"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_mbCcG1AH6)5"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_6fF72L1dc9P"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_l6CL3s(QO5d"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_zD24QbSo(1S"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_4qhlIP81Mn7"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_qSS)ZGrrt2J"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Buffs"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Masque: Shadow 1",
+				},
+				["WeakAuras_jJmeIssMa3M"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_WI0Yl1oihZX"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_gjIIzFPoaGL"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_pkSCN2t9m7T"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_4TEJCwDM6HE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_QFkLr)yWfX("] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_RTnMln7wUeq"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Debuffs"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Masque: Shadow 1",
+				},
+				["ElvUI"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Masque: Shadow 1",
+				},
+				["WeakAuras_WnPnoCnUiFG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_3p3ZU(Jl4s0"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_EFfOhUO2BCj"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_gn1a(5NPiw2"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_jB9oiFbG(we"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["Masque"] = {
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_JoUxNhIYuUD"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_79y0K4nF582"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_2LV5rNOKGHI"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_VbNRcXSgLW5"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_rYNcK(GtTps"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_sUokeUerTk1"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_(3ciNU27BwA"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_jl6SulR93Hq"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_p(uG)wZJDnx"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_CNM5qK(9rMP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_)YkHFwmRVV9"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_rz68U3o944A"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_wpzftvvCLRf"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_74cz2LbWNTP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Pet Bar"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Masque: Shadow 1",
+				},
+				["WeakAuras_frH49iKPlTs"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_YRv3N)VX4Ns"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_U9nkE4bMBta"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_i2bXDcVmSP4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_zGnX01IDfML"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_cDFHbBhg6q)"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Stance Bar"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Masque: Shadow 1",
+				},
+				["WeakAuras_DfvSDCkIpQi"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_uotbVH9lyh4"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_A5nYYH80R3p"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_H)SjGMI(ZbJ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_BPH5VYYn2sk"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_o0mbE9DebWE"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_pKgRVTb2X7T"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_kJXC0uS8UoB"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_(OOThdVm)dl"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_b8yjyBnKNBv"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_R9ssc8Fmw3X"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_QVSErNE6FOr"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_D88UaF1xnJQ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_GPAXniP09vi"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_22UGU8))kYP"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_xADT29gjaid"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_aXBah36TVSJ"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_ActionBars"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Masque: Shadow 1",
+				},
+				["WeakAuras_pWKSrTXUsG6"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["WeakAuras_z8EyHlhYuSG"] = {
+					["Upgraded"] = true,
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+			},
+		},
+	},
+}

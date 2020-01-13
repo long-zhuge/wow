@@ -1,0 +1,20 @@
+﻿## Interface: 11303
+## Author: Lag
+## Version: v1.4.4
+## Dependencies: AtlasLootClassic
+## LoadOnDemand: 1
+## Title: AtlasLootClassic |cFFFF0000[Data]|r
+## Title-zhCN: AtlasLoot经典版 |cFFFF0000[数据]|r
+## Title-zhTW: AtlasLootClassic |cFFFF0000[Data]|r
+## Notes: AtlasLoot data module
+## Notes-zhCN: AtlasLoot 数据模块
+## Notes-zhTW: AtlasLoot data module
+## X-Category: Map
+## X-License: GPL v2
+## X-Revision: BigFoot
+
+core.lua
+
+locales.lua
+items.lua
+source.lua

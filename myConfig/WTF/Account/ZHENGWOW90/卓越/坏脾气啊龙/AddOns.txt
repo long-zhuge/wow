@@ -1,0 +1,47 @@
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+OPie_Classic: disabled
+WeakAurasCompanion: enabled
+Spy: disabled
+Plater: disabled
+BugSack: disabled
+!BugGrabber: disabled
+alaGearMan: disabled
+honorspy: disabled
+GatherMate2: disabled
+HHTD: disabled
+HandyNotes: disabled
+SpeedyAutoLoot: disabled
+ClassicCodex: disabled
+Clique: disabled
+Decursive: disabled
+TheBurningTrade: disabled
+ClassicThreatMeter: disabled
+WhisperPop: disabled
+DruidBarClassic: disabled
+BattleInfo: disabled
+BaudAuction: disabled
+MySlot: disabled
+BigDebuffs: disabled
+TotemTimers: disabled
+MerInspect: disabled
+RangeDisplay: enabled
+TrinketMenu: disabled
+SellerHelper: disabled
+TUnitFrame: disabled
+AttackTimer: disabled
+HunterAssist: disabled
+PartyAssist: disabled
+BubbleChat: disabled
+ChannelFilter: disabled
+BigFootChat: disabled
+GDKP: disabled
+BFGoldFrame: disabled
+PlayerLink: disabled
+HandyNotes_TravelGuide (Classic): disabled
+HandyNotes_DungeonLocations (Classic): disabled
+HandyNotes_NPCs (Classic): disabled
+MeetingHorn: disabled

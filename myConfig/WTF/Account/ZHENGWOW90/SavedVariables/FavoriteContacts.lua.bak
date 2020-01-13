@@ -1,0 +1,13 @@
+
+FavoriteContactsSettings = {
+	["realm_奥罗"] = {
+		["reorderContacts"] = false,
+		["clickToSend"] = false,
+		["position"] = "RIGHT",
+		["scale"] = "AUTO",
+		["contacts"] = {
+		},
+		["rowCount"] = 9,
+		["columnCount"] = 2,
+	},
+}

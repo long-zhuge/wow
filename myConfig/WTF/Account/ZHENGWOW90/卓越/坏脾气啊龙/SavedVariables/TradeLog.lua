@@ -1,0 +1,100 @@
+
+TradeLog_TradesHistory = {
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 2,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "魔法甜面包",
+				["numItems"] = 20,
+				["isUsable"] = true,
+				["itemLink"] = "|cffffffff|Hitem:8076::::::::60:::::::|h[魔法甜面包]|h|r",
+				["texture"] = 133989,
+			}, -- [1]
+			{
+				["name"] = "魔法甜面包",
+				["numItems"] = 20,
+				["isUsable"] = true,
+				["itemLink"] = "|cffffffff|Hitem:8076::::::::60:::::::|h[魔法甜面包]|h|r",
+				["texture"] = 133989,
+			}, -- [2]
+		},
+		["player"] = "烟亦舞",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "大白鹅",
+		["when"] = "2019-12-14 09:31:30",
+		["result"] = "complete",
+		["where"] = "奥特兰克山脉",
+	}, -- [1]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 10000,
+		["id"] = 3,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "魔法甜面包",
+				["numItems"] = 20,
+				["itemLink"] = "|cffffffff|Hitem:8076::::::::60:::::::|h[魔法甜面包]|h|r",
+				["isUsable"] = true,
+				["texture"] = 133989,
+			}, -- [1]
+			{
+				["name"] = "魔法晶水",
+				["numItems"] = 20,
+				["itemLink"] = "|cffffffff|Hitem:8079::::::::60:::::::|h[魔法晶水]|h|r",
+				["isUsable"] = true,
+				["texture"] = 132805,
+			}, -- [2]
+		},
+		["player"] = "坏脾气啊龙",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "号租被骗勿扰",
+		["when"] = "2019-12-27 20:48:55",
+		["result"] = "complete",
+		["where"] = "荒芜之地",
+	}, -- [2]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 4,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[7] = {
+				["name"] = "强化钢质宝箱",
+				["numItems"] = 1,
+				["enchantment"] = "开锁",
+				["isUsable"] = true,
+				["itemLink"] = "|cff1eff00|Hitem:4638::::::::60:::1::::|h[强化钢质宝箱]|h|r",
+				["texture"] = 134344,
+			},
+		},
+		["player"] = "坏脾气啊龙",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "圣斗士冯巩",
+		["when"] = "2020-01-06 20:40:58",
+		["result"] = "complete",
+		["where"] = "奥格瑞玛",
+	}, -- [3]
+}
+TRADE_LOG_BUTTON_POS = -35.2175373663957
+TradeLog_Announce_Checked = false
+TradeLog_AnnounceChannel = "WHISPER"
+TBT_CurrentPortal = nil

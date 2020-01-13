@@ -1,0 +1,155 @@
+
+SpyDB = {
+	["kosData"] = {
+		["奥罗"] = {
+			["Horde"] = {
+				["烟亦舞"] = {
+				},
+				["Poetic"] = {
+				},
+				["Soleil"] = {
+				},
+			},
+		},
+		["卓越"] = {
+			["Horde"] = {
+				["坏脾气啊龙"] = {
+				},
+			},
+		},
+	},
+	["removeKOSData"] = {
+		["奥罗"] = {
+			["Horde"] = {
+			},
+		},
+		["卓越"] = {
+			["Horde"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["烟亦舞 - 奥罗"] = "烟亦舞 - 奥罗",
+		["Poetic - 奥罗"] = "Poetic - 奥罗",
+		["坏脾气啊龙 - 卓越"] = "坏脾气啊龙 - 卓越",
+		["Soleil - 奥罗"] = "Soleil - 奥罗",
+	},
+	["profiles"] = {
+		["烟亦舞 - 奥罗"] = {
+			["AppendUnitNameCheck"] = true,
+			["MainWindow"] = {
+				["RowHeight"] = 16,
+				["Position"] = {
+					["y"] = -394.166492462158,
+					["x"] = -84.5186157226563,
+					["w"] = 149.000076293945,
+					["h"] = 35.0000038146973,
+				},
+			},
+			["Colors"] = {
+				["Other Windows"] = {
+					["Background"] = {
+						["b"] = 0.0941176470588235,
+						["g"] = 0.0941176470588235,
+						["r"] = 0.0941176470588235,
+					},
+				},
+				["Window"] = {
+					["Background"] = {
+						["b"] = 0.0941176470588235,
+						["g"] = 0.0941176470588235,
+						["r"] = 0.0941176470588235,
+					},
+				},
+				["Alert"] = {
+					["Stealth Text"] = {
+						["a"] = 1,
+					},
+					["Name Text"] = {
+						["a"] = 1,
+					},
+				},
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["AppendUnitKoSCheck"] = true,
+			["Locked"] = true,
+			["BarTexture"] = "ElvUI Blank",
+			["MainWindowVis"] = false,
+			["HideSpy"] = true,
+		},
+		["Poetic - 奥罗"] = {
+			["Enabled"] = false,
+			["MainWindow"] = {
+				["RowHeight"] = 16,
+				["Position"] = {
+					["y"] = -409.16668510437,
+					["x"] = -683.018585205078,
+					["w"] = 150.999938964844,
+					["h"] = 35.0000038146973,
+				},
+			},
+			["DisableWhenPVPUnflagged"] = true,
+			["BarTexture"] = "ElvUI Blank",
+			["AppendUnitNameCheck"] = true,
+			["Colors"] = {
+				["Alert"] = {
+					["Stealth Text"] = {
+						["a"] = 1,
+					},
+					["Name Text"] = {
+						["a"] = 1,
+					},
+				},
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["AppendUnitKoSCheck"] = true,
+			["SoundChannel"] = "Ambience",
+			["MainWindowVis"] = false,
+		},
+		["坏脾气啊龙 - 卓越"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -31,
+					["x"] = -689.500015258789,
+					["w"] = 298.999969482422,
+					["h"] = 35.0000114440918,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["AppendUnitNameCheck"] = true,
+			["AppendUnitKoSCheck"] = true,
+		},
+		["Soleil - 奥罗"] = {
+			["AppendUnitNameCheck"] = true,
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = -932.499786376953,
+					["h"] = 35,
+					["x"] = -2636.00073242188,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["AppendUnitKoSCheck"] = true,
+		},
+	},
+}

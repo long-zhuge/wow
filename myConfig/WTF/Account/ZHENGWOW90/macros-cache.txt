@@ -1,0 +1,21 @@
+VER 3 0000000000000007 "alaGearMan1" "132349"
+/click alaGearMan_SecureQuick1
+END
+VER 3 0000000000000005 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('没有相关技能')
+END
+VER 3 0000000000000001 "喊话" "135955"
+/1 《深渊将军潜行队，5刷》来的MMM
+/2 《深渊将军潜行队，5刷》来的MMM
+/6 《深渊将军潜行队，5刷》来的MMM
+END
+VER 3 0000000000000003 "找怪" "132121"
+/target 班诺克·巨斧
+/target 霍克·巴什古德
+/target 雷克萨
+/target 杰德
+/target 斯库尔
+END
+VER 3 0000000000000006 "组队" "132092"
+/6 STSM前门刷装备。。来T/dps/治疗。。
+END

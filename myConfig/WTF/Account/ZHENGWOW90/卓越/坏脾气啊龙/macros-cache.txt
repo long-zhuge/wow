@@ -1,0 +1,10 @@
+VER 3 0000000001000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 冲动
+/castsequence 剑刃乱舞,冲动
+END
+VER 3 0000000001000001 "邪恶攻击" "INV_MISC_QUESTIONMARK"
+#showtooltip 出血
+/startattack
+/castsequence reset=1 出血
+/castsequence reset=1 还击
+END
